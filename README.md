@@ -43,3 +43,6 @@ This project highlights professional desktop application development standards a
 ```bash
 git clone [https://github.com/emineugurlu/Bank.git](https://github.com/emineugurlu/Bank.git)
 # Open the project in your IDE and run LoginFrame.java
+````
+
+Developed by Emine Uğurlu - Computer Engineer. Pioneering digital finance through code.
